@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 69121a38356bea24c93302261796a1c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 223668830005785115
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_0
+  - first:
+      213: -7128567072341112077
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_1
+  - first:
+      213: -2965948112224556978
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_2
+  - first:
+      213: -635749856239427022
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_3
+  - first:
+      213: -1927363556269846274
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_4
+  - first:
+      213: -2831240181555894516
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_5
+  - first:
+      213: -8376606805363488107
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_6
+  - first:
+      213: 510542281172465569
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_7
+  - first:
+      213: 4087944311641167880
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_8
+  - first:
+      213: 4520346669713326276
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_9
+  - first:
+      213: -3970293521908288342
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_10
+  - first:
+      213: 7361893035970625482
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_11
+  - first:
+      213: -6483836195654506137
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_12
+  - first:
+      213: -2845734484416194143
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_13
+  - first:
+      213: 5392161334685021515
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_14
+  - first:
+      213: 3717135300189316394
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_15
+  - first:
+      213: -21812942516208763
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_16
+  - first:
+      213: 7608592586204212162
+    second: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+      Coins_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1272d7ad91aa1300800000000000000
+      internalID: 223668830005785115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3facf87340e321d90800000000000000
+      internalID: -7128567072341112077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 210
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486d9cf7e5d6d6d0800000000000000
+      internalID: -2965948112224556978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 210
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e7d4cfdc5d27f0800000000000000
+      internalID: -635749856239427022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 210
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09083ae01a045e0800000000000000
+      internalID: -1927363556269846274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c076c803e0a65b8d0800000000000000
+      internalID: -2831240181555894516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a803fdd7050cb80800000000000000
+      internalID: -8376606805363488107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 162
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a73a10ff7fc51700800000000000000
+      internalID: 510542281172465569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 162
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80853fc41bb4bb830800000000000000
+      internalID: 4087944311641167880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 162
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c002e5a85f7bbe30800000000000000
+      internalID: 4520346669713326276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 114
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa43f9cc31fa6e8c0800000000000000
+      internalID: -3970293521908288342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 114
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf737316b2ba2660800000000000000
+      internalID: 7361893035970625482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76961383559c406a0800000000000000
+      internalID: -6483836195654506137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 114
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a91b43509be188d0800000000000000
+      internalID: -2845734484416194143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b453f7d3a2ec4da40800000000000000
+      internalID: 5392161334685021515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2569dd7cdae59330800000000000000
+      internalID: 3717135300189316394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 66
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb0dd8e3182bff0800000000000000
+      internalID: -21812942516208763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous -
+        Coins_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 66
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb6f5525a6279960800000000000000
+      internalID: 7608592586204212162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_0: 223668830005785115
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_1: -7128567072341112077
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_10: -3970293521908288342
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_11: 7361893035970625482
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_12: -6483836195654506137
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_13: -2845734484416194143
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_14: 5392161334685021515
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_15: 3717135300189316394
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_16: -21812942516208763
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_17: 7608592586204212162
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_2: -2965948112224556978
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_3: -635749856239427022
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_4: -1927363556269846274
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_5: -2831240181555894516
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_6: -8376606805363488107
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_7: 510542281172465569
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_8: 4087944311641167880
+      PC _ Computer - Chantelise - A Tale of Two Sisters - Miscellaneous - Coins_9: 4520346669713326276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
